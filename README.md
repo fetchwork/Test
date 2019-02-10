@@ -1,1 +1,1 @@
-Linux new app on Python
+New app on Python 1.0
