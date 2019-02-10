@@ -1,1 +1,1 @@
-First application
+Linux new app on Python
